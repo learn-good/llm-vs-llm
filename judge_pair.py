@@ -45,7 +45,7 @@ google_gemini_pro = google_llm.GenerativeModel('gemini-pro')
 
 TEMPERATURE = 0
 MAX_TOKENS = 2048
-SEMAPHORE_SIZE = 10 # TODO adjust to change the number of concurrent LLM requests
+SEMAPHORE_SIZE = 10 # TODO change the number of concurrent LLM requests. Be mindful of your rate limits.
 
 BASE_PATH = Path(os.path.dirname(os.path.realpath(__file__)))
 
