@@ -1,0 +1,186 @@
+expository:
+  pi:
+    What is pi?
+  e:
+    What is e?
+  group_theory:
+    What is group theory?
+  game_theory:
+    What is game theory?
+  linear_algebra:
+    What is linear algebra?
+  calculus:
+    What is calculus?
+  euler_contributions:
+    What are Euler's contributions to math?
+  noether_contributions:
+    What are Emmy Noether's contributions to math?
+  operating_systems:
+    How do operating systems work?
+  information_theory:
+    What is information theory?
+  ml_fundamentals:
+    What are the most fundamental concepts of machine learning?
+  math_proof:
+    What does it mean to prove something in math? How can a teacher accurately grade if a student proved a statement?
+  gravity_experiment:
+    You have a friend that is intelligent, but skeptical of anything he hasn't measured empirically. Design an experiment to prove it to him that the Newtonian formula for gravity is correct.
+  floating_point:
+    Explain how floating point representation in computer programs work. How can you sometimes get unintuitive results?
+  kant_ideas:
+    What were Immanuel Kant's most pertinent ideas?
+  quantum_computing:
+    Explain the basic principles of quantum computing and how it differs from classical computing.
+  chaos_theory:
+    What is chaos theory, and what are some real-world examples of chaotic systems?
+  fermat_last_theorem:
+    Describe the history and significance of Fermat's Last Theorem, and how it was eventually proven.
+  turing_machine:
+    What is a Turing machine, and why is it important in the field of computer science?
+  godel_incompleteness:
+    Explain Gödel's Incompleteness Theorems and their implications for mathematics and logic.
+  conv_taylor:
+    Is there any connection between taylor series and 1d convolutions?
+  eigen:
+    Give an intuitive explanation for eigenvalues and eigenvectors.
+  culture_constants:
+    What are some elements, behaviors, or traditions that are largely conserved across human cultures? Are there any noteable outliers?
+  mythology_constants:
+    What are some themes that are largely conserved across mythologies? Are there any noteable outliers?
+  desert_island_food:
+    If a human could only eat one meal every day for the rest of their lives, which meal should they choose to ensure they live a long and healthy life, assuming no allergen restrictions?
+syllabus:
+  game_theory_syllabus:
+    Design a syllabus for an undergraduate level course on game theory
+  linear_algebra_syllabus:
+    Design a syllabus for an undergraduate level course on linear algebra
+  calculus_syllabus:
+    Design a syllabus for an undergraduate level course on differential equations
+  computer_vision_syllabus:
+    Design a syllabus for an undergraduate level course on computer vision
+  quantum_mechanics_syllabus:
+    Design a syllabus for an undergraduate level course on quantum mechanics
+  data_structures_algorithms_syllabus:
+    Design a syllabus for an undergraduate level course on data structures and algorithms
+  machine_learning_syllabus:
+    Design a syllabus for an undergraduate level course on machine learning
+  cryptography_syllabus:
+    Design a syllabus for an undergraduate level course on cryptography
+  western_philosophy_syllabus:
+    Design a syllabus for an undergraduate level course on western philosophy
+  eastern_philosophy_syllabus:
+    Design a syllabus for an undergraduate level course on eastern philosophy
+  plato_syllabus:
+    Design a syllabus for an undergraduate level course on Plato 
+quickstart:
+  music_viz_quickstart:
+    Make a quickstart guide for music visualization in python
+  nlp_basic_quickstart:
+    Make a quickstart guide for performing basic natural language processing tasks in Python
+  nlp_sentiment_quickstart:
+    Make a quickstart guide for performing sentiment analysis in Python
+  opencv_quickstart:
+    Make a quickstart guide for using OpenCV in Python for image processing and computer vision tasks
+  pytorch_quickstart:
+    Make a quickstart guide for getting started with PyTorch for deep learning projects
+  llm_api_quickstart:
+    Make a quickstart guide for getting started with large language model API calls.
+  music_production_quickstart:
+    Make a quickstart guide for getting started with music production.
+  digital_art_quickstart:
+    Make a quickstart guide for getting started with digital art.
+  rasterize_quickstart:
+    Make a quickstart guide for getting started with rasterization in python.
+  optimization_quickstart:
+    Make a quickstart guide for getting started with operations research and optimization in python.
+  collab_button_quickstart:
+    Make a quickstart guide for building a very basic collaboration tool. Multiple users should be able to toggle a button on and off, and the results should be synced across user sessions.
+multiple_choice_questions:
+  game_theory_mc:
+    You are designing multiple choice questions for an undergraduate level class on game theory to test on the topic of Nash equilibrium. Describe the different types of multiple choice questions you could construct.
+  calculus_mc:
+    You are designing multiple choice questions for an undergraduate level class on calculus to test on the topic of derivatives. Describe the different types of multiple choice questions you could construct.
+  computer_architecture_mc:
+    You are designing multiple choice questions for an undergraduate level class on computer architecture to test on the topic of cache memory. Describe the different types of multiple choice questions you could construct.
+  organic_chemistry_mc:
+    You are designing multiple choice questions for an undergraduate level class on organic chemistry to test on the topic of stereochemistry. Describe the different types of multiple choice questions you could construct.
+  taylor_series_mc:
+    You are designing multiple choice questions for an undergraduate level class on the topic of taylor series. Describe the different types of multiple choice questions you could construct.
+  race_conditions_mc:
+    You are teaching a computer science course with a section on race conditions. Describe the different types of multiple choice questions you could construct that would be instructive.
+  attention_mc:
+    You are designing multiple choice questions for an undergraduate survey class on the topic of the paper "Attention is all you need". Describe the different types of multiple choice questions you could construct to make sure the students understand the paper.
+  no_free_lunch_mc:
+    You are designing multiple choice questions for an undergraduate survey class on the "no free lunch" paper. Describe the different types of multiple choice questions you could construct to make sure the students understand the paper.
+  crime_and_punishment_mc:
+    You are designing multiple choice questions for an undergraduate humanities class, covering Dostoevsky's "Crime and Punishment". Describe the different types of multiple choice questions you could construct to make sure the students understand the message of the book.
+  pytorch_mc:
+    You are designing multiple choice questions for a practical guide to pytorch. Describe the different types of multiple choice questions you could construct to make sure the students understand how to perform common functions.
+  pandas_mc:
+    You are designing multiple choice questions for a practical guide to pandas. Describe the different types of multiple choice questions you could construct to make sure the students understand how to perform common functions.
+  numpy_mc:
+    You are designing multiple choice questions for a practical guide to numpy. Describe the different types of multiple choice questions you could construct to make sure the students understand how to perform common functions.
+  matplotlib_mc:
+    You are designing multiple choice questions for a practical guide to matplotlib. Describe the different types of multiple choice questions you could construct to make sure the students understand how to perform common functions.
+math:
+  thermal_flask_cooling:
+    Estimate the time it would take for a 1L room temperature (70 degrees) thermal flask filled with water to be chilled under 50 degrees, assuming the fridge temp is set to 40 degrees.
+  ice_cream_cake_atoms:
+    Estimate the representation of atoms of different elements in a slice of ice cream cake
+  poker_equity:
+    In a game of Texas Hold'em, you are holding a nut flush draw and an overcard on the turn. What is your approximate equity against an opponent who you believe has either a set or two pairs?
+  poker_suited_connectors:
+    In Texas Hold'em, you are dealt two suited connectors (e.g., 7♥ 8♥). What is the probability of making a flush or straight by the river, assuming you see all five community cards?
+  expected_value:
+    You are playing a game with the following rules - you roll a six sided die. If you roll between 1 and 5 you recieve 1 dollar. If you roll a 6, you roll again, but the potential payouts are doubled. e.g. if you roll 6,6,3, you get 4 dollars. What is the expected value of this game?
+  infinite_primes:
+    Prove that there are infinitely many primes of the form 2k + 1, where k is a non-negative integer.
+  lawn_mowing_time:
+    Your lawn has an area of 1,200 square feet. You have a push mower that can mow at a rate of 150 square feet per minute. If you take a 5-minute break for every 20 minutes of mowing, how long will it take you to mow the entire lawn?
+  paint_coverage:
+    A room measures 12 feet by 15 feet and has an 8-foot ceiling. You want to paint the walls and ceiling of the room. The paint you have chosen covers 400 square feet per gallon. How many gallons of paint will you need to buy, assuming you need two coats of paint?
+  investment_growth:
+    You invest $10,000 in a mutual fund that has an average annual return of 7%, compounded annually. How much money will you have after (5,10,20) years, assuming you don't make any additional contributions or withdrawals?
+  rolling_dice:
+    You roll dice until the sum of your rolls equals 9 exactly. If the sum exceeds 9, you start over with a sum of 0, but the number of rolls you did still count. On average, how many times do you have to roll the dice to finish the game?
+  unfair_edge_game:
+    You are offered a game that pays out 1 to 1 odds, but you have 51% chance of winning each round. How much of your total bankroll should you bet each round if you are offered (1,10,100) rounds? (imagine there is no real money at stake; you are just playing a computer simulated game against friends and want to come out on top)
+coding:
+  gaussian_elimination:
+    Write a python program that performs Gaussian elimination on a matrix and prints out intermediate steps
+  matrix_inversion:
+    Write a python program from scratch that performs matrix inversion on a numpy array and prints out intermediate steps.
+  llm_tokens:
+    Write a python program that lets a user estimate or exactly calculate the number of tokens their string would be if it were to be processed my a LLM
+  image_rotate_crop:
+    Write a python function that can rotate an input image in degrees or radians and perform crops.
+  1d_gaussian_blur:
+    Write a python function that can perform a 1D gaussian blur on an array.
+  dijkstra_algorithm:
+    Implement Dijkstra's algorithm in Python to find the shortest path between nodes in a graph.
+  prime_factorization:
+    Write a Python function that takes an integer and returns its prime factorization as a list of tuples (prime, exponent).
+  image_classifier:
+    Using a pre-trained deep learning model, create a Python script that can classify an input image into one of several categories.
+  fast_fourier_transform:
+    Implement the Fast Fourier Transform algorithm in Python to compute the discrete Fourier transform of a sequence.
+  red_black_tree:
+    Implement a Red-Black tree data structure in Python, with methods for insertion, deletion, and search.
+  markov_chain_monte_carlo:
+    Write a Python program to perform Markov Chain Monte Carlo (MCMC) sampling using the Metropolis-Hastings algorithm.
+  neural_network_from_scratch:
+    Build a simple neural network library from scratch in Python, including forward propagation, backpropagation, and gradient descent optimization.
+  lru_cache:
+    Implement a Least Recently Used (LRU) cache in Python, with methods for getting and putting key-value pairs.
+  regex_engine:
+    Write a basic regular expression engine in Python that can handle simple patterns like literal matches, wildcards, and character classes.
+  sudoku_solver:
+    Create a Python program that can solve Sudoku puzzles using a backtracking algorithm.
+  huffman_coding:
+    Implement the Huffman coding algorithm in Python for lossless data compression.
+  parser_generator:
+    Build a simple parser generator in Python that can create parsers for context-free grammars.
+  plot_spiral:
+    Write a python program that can plot a spiral. Users should be able to adjust a few parameters to change how the spiral looks, specifically its shape.
+  square_root:
+    Write a python program that finds the square root of a number without using any preexisting libraries.

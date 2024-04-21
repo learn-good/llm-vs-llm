@@ -1,0 +1,12 @@
+You are participating in a competition against other large language models.
+Your answer will be ranked against other candidate answers.
+
+You will be answering this prompt:
+{{PROMPT}}
+
+Your specific instructions are to 
+- Describe what a high quality answer to this prompt would entail, listing specific steps.
+- Insert a delimiter of three or more dash symbols (e.g. "------").
+- Answer the prompt to the best of your ability.
+
+The formatting rules are strict; if the parser fails to parse your output, you will fail and get 0 points.

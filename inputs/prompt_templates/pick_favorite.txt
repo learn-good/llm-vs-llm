@@ -1,0 +1,11 @@
+You will be evaluating candidate answers in response to a prompt and choosing the answer you believe to be the best as the winner.
+
+Here is the prompt the candidate answers are attempting to address:
+{{PROMPT}}
+
+Here are the candidate answers you must evaluate and choose between:
+{{ALL_ANSWERS_FORMATTED}}
+
+Your instructions are as follows:
+- Briefly discuss the strengths and weaknesses of each response.
+- Report your decision for winner on its own line at the very end of your response, e.g., "Winner: candidate answer 1" or "Winner: candidate answer 2"
