@@ -15,6 +15,9 @@ The purpose of this repo is to provide an alternative or supplement to large lan
 ### Run
 - Use a virtual environment if you wish: `python3 -m venv venv; source venv/bin/activate`
 - Install dependencies: `pip install -r requirements.txt`
+- Edit the "TODO"s in `judge_pair.py`
+   1. Modify `get_secret_key()` to point to your API keys. You can skip this step if you have them loaded as environment variables.
+   2. Change the `SEMAPHORE_SIZE` to modify the number of concurrent requests according to your rate limits.
 - Run the python script: `python judge_pair.py`
 
 ### Modify

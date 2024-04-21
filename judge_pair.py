@@ -15,7 +15,7 @@ import google.generativeai as google_llm
 ##-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ## Constants + setup
 ##-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-log = get_logger_with_level( logging.DEBUG ) # TODO - change logging level if the output is too verbose
+log = get_logger_with_level( logging.DEBUG ) # change logging level if the output is too verbose
 
 def get_secret_key(secret_name: str) -> str:
     """
