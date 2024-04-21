@@ -26,6 +26,8 @@ The purpose of this repo is to provide an alternative or supplement to large lan
   - modify the newly copied function to use a different model (e.g. `model = gpt-4-0125-preview`)
   - modify `provider_functions` in `judge_pair.py` so that the name reflects the model (e.g. `"openai-0125": generate_openai_response_0125`).
 
+----
+
 ##### Links
 Find us here: [learngood.com](https://www.learngood.com).  
 YouTube: coming soon
