@@ -1,5 +1,5 @@
 # Purpose
-The purpose of this repo is to provide an alternative or supplement to large language model benchmarks. You can control the tasks tested, the prompt structure, and pick the pair of models you would like to test against each other. You can either manually inspect the generated responses and judgements or run summary statistics on the output `pick_favorite.csv` to see which model the judges preferred the most.
+The purpose of this repo is to provide a supplement to large language model benchmarks that allows users to test specifically on the problems they care about. You can control the tasks tested, the prompt structure, and pick the pair of models you would like to test against each other. You can either manually inspect the generated responses and judgements or run summary statistics on the output `pick_favorite.csv` to see which model the judges preferred the most.
 
 
 # Description
