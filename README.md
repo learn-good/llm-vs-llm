@@ -24,6 +24,7 @@ The purpose of this repo is to provide an alternative or supplement to large lan
 - Change the task prompt contents: modify `inputs/tasks.yaml`
 - Change the task prompt templates (that have general instructions): modify `inputs/prompt_templates/*.txt`
 - Change the API models: modify model name in `generate_openai_response()`, `generate_anthropic_response()`, `generate_google_response()`
+- Use only one model for judging (to save on cost): modify the innermost for loop in `pick_favorites()` to use a specific tuple rather than `provider_functions.items()` 
 - Test different versions of an API from the same model provider against each other:
   - copy the generating function (e.g. copy `generate_openai_response()` to `generate_openai_response_0125()`)
   - modify the newly copied function to use a different model (e.g. `model = gpt-4-0125-preview`)
