@@ -1,3 +1,7 @@
+# Purpose
+The purpose of this repo is to provide an alternative or supplement to large language model benchmarks. You can control the tasks tested, the prompt structure, and pick the pair of models you would like to test against each other. You can either manually inspect the generated responses and judgements or run summary statistics on the output `pick_favorite.csv` to see which model the judges preferred the most.
+
+
 # Description
 `judge_pair.py` allows you to asynchronously generate responses for designated LLM providers from a set of tasks. After responses are generated, it uses the same two LLM providers to judge the responses that were generated. These are judged in both order permutations. The outputs of both steps are CSVs.
 
