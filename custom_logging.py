@@ -29,7 +29,6 @@ class Colors:
     END = "\033[0m"
     DARK_ORANGE = '\033[38;5;208m'
 
-# Custom Formatter
 class CustomFormatter(logging.Formatter):
     """Logging Formatter to add colors and count warning / errors"""
     suffix = (f"({Colors.BLUE}%(pathname)s{Colors.END}:"
