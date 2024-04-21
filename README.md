@@ -31,7 +31,23 @@ The purpose of this repo is to provide a supplement to large language model benc
   - modify `provider_functions` in `judge_pair.py` so that the name reflects the model (e.g. `"openai-0125": generate_openai_response_0125`).
 
 ----
+## Additional info and links
 
-##### Links
+##### API pricing (updated 2024/04/21)
+- OpenAI
+  - GPT4 Turbo
+      - Input: $10 per million tokens
+      - Output: $30 per million tokens
+- Anthropic
+  - Claude 3 Opus
+      - Input: $15 per million tokens
+      - Output: $75 per million tokens
+
+##### Links (updated 2024/04/21)
+[OpenAI API rate limits](https://platform.openai.com/docs/guides/rate-limits)  
+[Anthropic API rate limits](https://docs.anthropic.com/claude/reference/rate-limits)  
+[Google API rate limits](https://ai.google.dev/pricing)
+- Even their paid tier (when it is released: 2024/05/02) is very restrictive at 5 requests per minute, but I would expect them to bump this up in the future.
+
 Find us here: [learngood.com](https://www.learngood.com).  
 YouTube: coming soon
