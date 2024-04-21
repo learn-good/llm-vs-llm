@@ -23,5 +23,5 @@
   - modify `provider_functions` in `judge_pair.py` so that the name reflects the model (e.g. `"openai-0125": generate_openai_response_0125`).
 
 ##### Links
-Find us here: [learngood.com](https://www.learngood.com).
+Find us here: [learngood.com](https://www.learngood.com).  
 YouTube: coming soon
