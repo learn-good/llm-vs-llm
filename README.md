@@ -50,4 +50,4 @@ The purpose of this repo is to provide a supplement to large language model benc
 - Even their paid tier (when it is released: 2024/05/02) is very restrictive at 5 requests per minute, but I would expect them to bump this up in the future.
 
 Find us here: [learngood.com](https://www.learngood.com).  
-YouTube: coming soon
+YouTube: [claude 3 vs gpt 4](https://www.youtube.com/watch?v=-bcbcFYhqes)
